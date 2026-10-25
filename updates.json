@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "window-keeper@justin.local": {
+      "updates": [
+        {
+          "version": "2.6.0",
+          "update_link": "https://raw.githubusercontent.com/BinarySaolo/wk-updates/main/window-keeper-2.6.0.xpi",
+          "update_hash": "sha256:a5604743244505dee755337aa5619b7584135a00aebd623b6f9838aad51dcd5a",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "115.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
