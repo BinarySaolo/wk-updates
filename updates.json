@@ -21,6 +21,16 @@
               "strict_min_version": "115.0"
             }
           }
+        },
+        {
+          "version": "2.8.0",
+          "update_link": "https://raw.githubusercontent.com/BinarySaolo/wk-updates/main/window-keeper-2.8.0.xpi",
+          "update_hash": "sha256:d944275d20c591b8fc7025400e6fb1d48b8d6da297523772d39fd4d598a4d193",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "115.0"
+            }
+          }
         }
       ]
     }
